@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "meyer-lab-web",
     "status": "up",
-    "uptime": "90.06%",
-    "uptimeDay": "90.06%",
-    "uptimeWeek": "90.06%",
-    "uptimeMonth": "90.06%",
-    "uptimeYear": "90.06%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 892,
     "timeDay": 892,
     "timeWeek": 892,
     "timeMonth": 892,
     "timeYear": 892,
-    "dailyMinutesDown": {
-      "2022-04-22": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Meyer Lab SMTP",
