@@ -4,9 +4,8 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Meyer Lab Web
-    url: https://www.meyerlab.com/
-  - name: Meyer Lab SMTP
-    check: "tcp-ping"
+    url: https://www.125.com/
+  - name: Meyer Lab SMTPcom    check: "tcp-ping"
     url: vps-1397470-x.dattaweb.com
     port: 465
   - name: Meyer Lab IMAP
