@@ -17,8 +17,8 @@ sites:
     check: "tcp-ping"
     url: vps-1397470-x.dattaweb.com
     port: 995
-  #- name: Prueba Web caida
-    #url: web.caida.com.nz
+  - name: Prueba Web caida
+    url: web.caida.com.nz
   #- name: Meyer Lab IMAP
     #url: vps-1397470-x.dattaweb.com:993
   #- name: Meyer Lab POP
