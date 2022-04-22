@@ -1,22 +1,22 @@
 [
   {
     "name": "Meyer Lab Web",
-    "url": "www.meyerla.com.py",
+    "url": "www.meyerlab.com.py",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "meyer-lab-web",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 892,
-    "timeDay": 892,
-    "timeWeek": 892,
-    "timeMonth": 892,
-    "timeYear": 892,
+    "status": "up",
+    "uptime": "98.73%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "98.73%",
+    "time": 887,
+    "timeDay": 887,
+    "timeWeek": 887,
+    "timeMonth": 887,
+    "timeYear": 887,
     "dailyMinutesDown": {
-      "2022-04-22": 0
+      "2022-04-22": 2
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 231,
-    "timeWeek": 231,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "time": 232,
+    "timeDay": 232,
+    "timeWeek": 232,
+    "timeMonth": 232,
+    "timeYear": 232,
     "dailyMinutesDown": {}
   },
   {
