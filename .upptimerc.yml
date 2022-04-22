@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Meyer Lab Web
-    url: www.meyerla.com.py
+    url: www.meyerlab.com.py
   - name: Meyer Lab SMTP    
     check: "tcp-ping"
     url: vps-1397470-x.dattaweb.com
