@@ -77,18 +77,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "prueba-de-web-caida",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 356,
     "timeDay": 356,
     "timeWeek": 356,
     "timeMonth": 356,
     "timeYear": 356,
-    "dailyMinutesDown": {
-      "2022-04-22": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
