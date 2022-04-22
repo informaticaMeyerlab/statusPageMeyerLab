@@ -18,7 +18,7 @@ sites:
     url: vps-1397470-x.dattaweb.com
     port: 995
   - name: Prueba de web caida
-    url: vps-1397470-x.dataeb.com
+    url: vps-1397470-x.dattaweb.com
   #- name: Meyer Lab POP
    # url: vps-1397470-x.dattaweb.com:995
  
