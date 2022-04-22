@@ -3,14 +3,30 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Meyer Lab Web
+    url: https://www.meyerlab.com.py/
+  - name: Meyer Lab SMTP
+    check: "tcp-ping"
+    url: vps-1397470-x.dattaweb.com
+    port: 465
+  - name: Meyer Lab IMAP
+    check: "tcp-ping"
+    url: vps-1397470-x.dattaweb.com
+    port: 993
+  - name: Meyer Lab POP
+    check: "tcp-ping"
+    url: vps-1397470-x.dattaweb.com
+    port: 995
+  - name: Prueba Web caida
+    url: web.caida.com.nz
+  #- name: Meyer Lab IMAP
+    #url: vps-1397470-x.dattaweb.com:993
+  #- name: Meyer Lab POP
+   # url: vps-1397470-x.dattaweb.com:995
+ 
+
+assignees:
+  - informaticaMeyerlab
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
