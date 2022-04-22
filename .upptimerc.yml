@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Meyer Lab Web
-    url: https://www.meyerlab.com.py/
+    url: https://www.meyerlab.com/
   - name: Meyer Lab SMTP
     check: "tcp-ping"
     url: vps-1397470-x.dattaweb.com
@@ -17,8 +17,6 @@ sites:
     check: "tcp-ping"
     url: vps-1397470-x.dattaweb.com
     port: 995
-  - name: Prueba Web caida
-    url: web.caida.com.nz
   #- name: Meyer Lab IMAP
     #url: vps-1397470-x.dattaweb.com:993
   #- name: Meyer Lab POP
