@@ -17,6 +17,10 @@ sites:
     check: "tcp-ping"
     url: vps-1397470-x.dattaweb.com
     port: 995
+    - name: NextLab Web
+    check: "tcp-ping"
+    url: http://190.104.179.198
+    port: 8081
   #- name: Prueba de web caida
     #url: vps-1397470-x.dattaweb.com
   #- name: Meyer Lab POP
