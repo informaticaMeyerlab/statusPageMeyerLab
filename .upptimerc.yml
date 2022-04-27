@@ -5,22 +5,22 @@ repo: upptime # The name of this repository
 sites:
   - name: Meyer Lab Web
     url: www.meyerlab.com.py
-  - name: Meyer Lab SMTP    
+  - name: Meyer Lab mail server
+    url: vps-1397470-x.dattaweb.com
+  - name: Meyer Lab mail SMTP    
     check: "tcp-ping"
     url: vps-1397470-x.dattaweb.com
     port: 465
-  - name: Meyer Lab IMAP
+  - name: Meyer Lab mail IMAP
     check: "tcp-ping"
     url: vps-1397470-x.dattaweb.com
     port: 993
-  - name: Meyer Lab POP
+  - name: Meyer Lab mail POP
     check: "tcp-ping"
     url: vps-1397470-x.dattaweb.com
     port: 995
   - name: NextLab Web
-    check: "tcp-ping"
-    url: http://190.104.179.198
-    port: 8081
+    url: http://190.104.179.198  
   #- name: Prueba de web caida
     #url: vps-1397470-x.dattaweb.com
   #- name: Meyer Lab POP
