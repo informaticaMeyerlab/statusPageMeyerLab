@@ -95,18 +95,16 @@
     "icon": "https://favicons.githubusercontent.com/190.104.179.198",
     "slug": "next-lab-web",
     "status": "up",
-    "uptime": "33.94%",
-    "uptimeDay": "33.94%",
-    "uptimeWeek": "33.94%",
-    "uptimeMonth": "33.94%",
-    "uptimeYear": "33.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 404,
     "timeDay": 404,
     "timeWeek": 404,
     "timeMonth": 404,
     "timeYear": 404,
-    "dailyMinutesDown": {
-      "2022-04-27": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
