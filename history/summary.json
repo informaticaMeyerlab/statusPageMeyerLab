@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 745,
-    "timeDay": 670,
-    "timeWeek": 657,
-    "timeMonth": 745,
-    "timeYear": 745,
+    "time": 754,
+    "timeDay": 807,
+    "timeWeek": 704,
+    "timeMonth": 754,
+    "timeYear": 754,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
-    "time": 579,
-    "timeDay": 510,
-    "timeWeek": 547,
-    "timeMonth": 579,
-    "timeYear": 579,
+    "time": 582,
+    "timeDay": 557,
+    "timeWeek": 558,
+    "timeMonth": 582,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2022-04-28": 42
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 152,
-    "timeWeek": 159,
-    "timeMonth": 168,
-    "timeYear": 168,
+    "time": 169,
+    "timeDay": 163,
+    "timeWeek": 162,
+    "timeMonth": 169,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 149,
-    "timeWeek": 159,
-    "timeMonth": 167,
-    "timeYear": 167,
+    "time": 168,
+    "timeDay": 162,
+    "timeWeek": 163,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 152,
-    "timeWeek": 159,
-    "timeMonth": 167,
-    "timeYear": 167,
+    "time": 168,
+    "timeDay": 165,
+    "timeWeek": 162,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   },
   {
@@ -102,31 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 455,
-    "timeDay": 335,
-    "timeWeek": 389,
-    "timeMonth": 455,
-    "timeYear": 455,
+    "time": 452,
+    "timeDay": 356,
+    "timeWeek": 390,
+    "timeMonth": 452,
+    "timeYear": 452,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Prueba de web caida",
-    "url": "test.caida.caida",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "prueba-de-web-caida",
-    "status": "down",
-    "uptime": "2.47%",
-    "uptimeDay": "2.47%",
-    "uptimeWeek": "2.47%",
-    "uptimeMonth": "2.47%",
-    "uptimeYear": "2.47%",
-    "time": 356,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 356,
-    "timeYear": 356,
-    "dailyMinutesDown": {
-      "2022-05-15": 0
-    }
   }
 ]
