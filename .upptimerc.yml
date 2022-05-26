@@ -25,6 +25,10 @@ sites:
     #check: "tcp-ping"
     url: http://190.104.149.36:2223
     #port: 2223
+   - name: Backup Tasser port    
+    check: "tcp-ping"
+    url: http://190.104.149.36
+    port: 2223
   #- name: Prueba de web caida
     #url: test.caida.caida
   #- name: Meyer Lab POP
