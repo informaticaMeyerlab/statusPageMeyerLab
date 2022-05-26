@@ -21,11 +21,11 @@ sites:
     port: 995
   - name: NextLab Web
     url: http://190.104.179.198:8081 
-  - name: Backup Tasser    
+  #- name: Backup Tasser    
     #check: "tcp-ping"
-    url: http://190.104.149.36:2223
+   # url: http://190.104.149.36:2223
     #port: 2223
-  - name: Backup Tasser port 2223   
+  - name: Backup Tasser  
     check: "tcp-ping"
     url: http://190.104.149.36
     port: 2223
