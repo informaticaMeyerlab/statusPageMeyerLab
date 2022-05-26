@@ -21,6 +21,10 @@ sites:
     port: 995
   - name: NextLab Web
     url: http://190.104.179.198:8081 
+  - name: Backup Tasser    
+    #check: "tcp-ping"
+    url: http://190.104.179.198:8081
+    #port: 2223
   #- name: Prueba de web caida
     #url: test.caida.caida
   #- name: Meyer Lab POP
