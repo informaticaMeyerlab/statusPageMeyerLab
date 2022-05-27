@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 774,
-    "timeDay": 827,
-    "timeWeek": 825,
-    "timeMonth": 782,
-    "timeYear": 774,
+    "time": 771,
+    "timeDay": 707,
+    "timeWeek": 792,
+    "timeMonth": 771,
+    "timeYear": 771,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 584,
-    "timeDay": 585,
-    "timeWeek": 582,
-    "timeMonth": 584,
-    "timeYear": 584,
+    "time": 583,
+    "timeDay": 551,
+    "timeWeek": 581,
+    "timeMonth": 583,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2022-04-28": 42
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 176,
-    "timeDay": 230,
-    "timeWeek": 193,
-    "timeMonth": 176,
-    "timeYear": 176,
+    "time": 175,
+    "timeDay": 159,
+    "timeWeek": 191,
+    "timeMonth": 175,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 186,
-    "timeWeek": 172,
-    "timeMonth": 170,
-    "timeYear": 170,
+    "time": 169,
+    "timeDay": 158,
+    "timeWeek": 171,
+    "timeMonth": 169,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 185,
-    "timeWeek": 173,
-    "timeMonth": 170,
-    "timeYear": 170,
+    "time": 169,
+    "timeDay": 159,
+    "timeWeek": 171,
+    "timeMonth": 169,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 431,
-    "timeDay": 451,
-    "timeWeek": 409,
-    "timeMonth": 431,
-    "timeYear": 431,
+    "time": 428,
+    "timeDay": 375,
+    "timeWeek": 405,
+    "timeMonth": 428,
+    "timeYear": 428,
     "dailyMinutesDown": {}
   },
   {
@@ -115,18 +115,19 @@
     "icon": "https://favicons.githubusercontent.com/190.104.149.36",
     "slug": "backup-tasser",
     "status": "down",
-    "uptime": "15.10%",
-    "uptimeDay": "15.10%",
-    "uptimeWeek": "15.10%",
-    "uptimeMonth": "15.10%",
-    "uptimeYear": "15.10%",
+    "uptime": "2.40%",
+    "uptimeDay": "2.40%",
+    "uptimeWeek": "2.40%",
+    "uptimeMonth": "2.40%",
+    "uptimeYear": "2.40%",
     "time": 171,
     "timeDay": 171,
     "timeWeek": 171,
     "timeMonth": 171,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2022-05-26": 18
+      "2022-05-27": 28,
+      "2022-05-26": 99
     }
   }
 ]
