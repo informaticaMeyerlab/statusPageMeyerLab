@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 795,
-    "timeDay": 1079,
-    "timeWeek": 732,
-    "timeMonth": 840,
-    "timeYear": 795,
+    "time": 801,
+    "timeDay": 1128,
+    "timeWeek": 781,
+    "timeMonth": 849,
+    "timeYear": 801,
     "dailyMinutesDown": {}
   },
   {
     "name": "Hey Now",
-    "url": "https://web.heynow.com.uy",
+    "url": "https://web.heynow.com.uy/login",
     "icon": "https://favicons.githubusercontent.com/web.heynow.com.uy",
     "slug": "hey-now",
     "status": "down",
-    "uptime": "10.72%",
-    "uptimeDay": "10.72%",
-    "uptimeWeek": "10.72%",
-    "uptimeMonth": "10.72%",
-    "uptimeYear": "10.72%",
+    "uptime": "0.39%",
+    "uptimeDay": "0.39%",
+    "uptimeWeek": "0.39%",
+    "uptimeMonth": "0.39%",
+    "uptimeYear": "0.39%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 7
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 616,
-    "timeDay": 585,
-    "timeWeek": 576,
-    "timeMonth": 633,
-    "timeYear": 616,
+    "time": 618,
+    "timeDay": 644,
+    "timeWeek": 595,
+    "timeMonth": 636,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2022-04-28": 42
     }
@@ -69,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 177,
-    "timeWeek": 168,
+    "timeDay": 180,
+    "timeWeek": 170,
     "timeMonth": 178,
     "timeYear": 175,
     "dailyMinutesDown": {}
@@ -87,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 175,
-    "timeWeek": 166,
+    "timeDay": 178,
+    "timeWeek": 168,
     "timeMonth": 171,
     "timeYear": 170,
     "dailyMinutesDown": {}
@@ -106,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 171,
     "timeDay": 180,
-    "timeWeek": 168,
+    "timeWeek": 169,
     "timeMonth": 172,
     "timeYear": 171,
     "dailyMinutesDown": {}
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 422,
-    "timeDay": 557,
-    "timeWeek": 422,
-    "timeMonth": 404,
-    "timeYear": 422,
+    "time": 423,
+    "timeDay": 528,
+    "timeWeek": 427,
+    "timeMonth": 405,
+    "timeYear": 423,
     "dailyMinutesDown": {}
   }
 ]
