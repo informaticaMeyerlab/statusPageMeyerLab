@@ -6,7 +6,7 @@ sites:
   - name: Meyer Lab Web
     url: www.meyerlab.com.py
   - name: Hey Now
-    url: web.heynow.com.uy/login
+    url: https://web.heynow.com.uy/login
   - name: Meyer Lab mail server
     url: vps-1397470-x.dattaweb.com
   - name: Meyer Lab mail SMTP    
@@ -43,8 +43,8 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
-  #baseUrl: /upptime
+  cname: demo.upptime.js.org
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
