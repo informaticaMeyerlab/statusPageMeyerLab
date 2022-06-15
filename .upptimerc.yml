@@ -6,7 +6,7 @@ sites:
   - name: Meyer Lab Web
     url: www.meyerlab.com.py
   - name: Hey Now
-    url: https://web.heynow.com.uy/login
+    url: web.heynow.com.uy/login
   - name: Meyer Lab mail server
     url: vps-1397470-x.dattaweb.com
   - name: Meyer Lab mail SMTP    
