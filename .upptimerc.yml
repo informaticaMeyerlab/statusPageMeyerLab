@@ -6,7 +6,9 @@ sites:
   - name: Meyer Lab Web
     url: www.meyerlab.com.py
   - name: Hey Now
-    url: web.heynow.com.uy
+    check: "tcp-ping"
+    url:web.heynow.com.uy 
+    port: 443
   - name: Meyer Lab mail server
     url: vps-1397470-x.dattaweb.com
   - name: Meyer Lab mail SMTP    
