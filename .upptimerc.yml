@@ -24,7 +24,7 @@ sites:
     url: vps-1397470-x.dattaweb.com
     port: 995
   - name: NextLab Web
-    url: https://190.104.179.198:8081 
+    url: http://190.104.179.198:8081 
   #- name: Backup Tasser    
     #check: "tcp-ping"
    # url: http://190.104.149.36:2223
