@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Meyer Lab Web
-    url: www.meyerlab.com.py
+    url: www.meyerlab.com.p
   - name: NextLab Web
     url: 190.104.179.198:8081
   - name: Hey Now
