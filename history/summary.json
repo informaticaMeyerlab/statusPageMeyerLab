@@ -11,9 +11,9 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.89%",
     "time": 748,
-    "timeDay": 663,
-    "timeWeek": 580,
-    "timeMonth": 567,
+    "timeDay": 321,
+    "timeWeek": 566,
+    "timeMonth": 556,
     "timeYear": 733,
     "dailyMinutesDown": {
       "2024-06-18": 105,
@@ -27,8 +27,7 @@
       "2023-10-29": 72,
       "2023-10-28": 42,
       "2023-10-01": 19,
-      "2023-08-30": 18,
-      "2023-06-29": 93
+      "2023-08-30": 18
     }
   },
   {
@@ -37,7 +36,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/8081.ico",
     "slug": "next-lab-web",
     "status": "down",
-    "uptime": "24.99%",
+    "uptime": "24.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -48,7 +47,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-27": 896,
+      "2024-06-28": 28,
+      "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -411,8 +411,7 @@
       "2023-07-03": 1440,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
-      "2023-06-30": 1440,
-      "2023-06-29": 1440
+      "2023-06-30": 1440
     }
   },
   {
@@ -421,18 +420,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hey-now",
     "status": "down",
-    "uptime": "75.01%",
+    "uptime": "74.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.19%",
+    "uptimeYear": "49.08%",
     "time": 424,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 416,
+    "timeYear": 415,
     "dailyMinutesDown": {
-      "2024-06-27": 896,
+      "2024-06-28": 28,
+      "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -641,9 +641,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.76%",
     "time": 619,
-    "timeDay": 598,
-    "timeWeek": 588,
-    "timeMonth": 600,
+    "timeDay": 592,
+    "timeWeek": 581,
+    "timeMonth": 598,
     "timeYear": 602,
     "dailyMinutesDown": {
       "2024-06-27": 68,
@@ -654,8 +654,7 @@
       "2023-10-20": 106,
       "2023-09-15": 91,
       "2023-08-02": 103,
-      "2023-06-30": 590,
-      "2023-06-29": 204
+      "2023-06-30": 590
     }
   },
   {
@@ -665,17 +664,16 @@
     "slug": "meyer-lab-mail-smtp",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.68%",
-    "time": 280,
-    "timeDay": 162,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.69%",
+    "time": 279,
+    "timeDay": 147,
     "timeWeek": 156,
-    "timeMonth": 159,
+    "timeMonth": 158,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2024-06-27": 10,
       "2024-06-01": 25,
       "2024-04-18": 252,
       "2024-03-11": 23,
@@ -689,8 +687,7 @@
       "2023-11-14": 40,
       "2023-10-20": 104,
       "2023-09-15": 88,
-      "2023-06-30": 590,
-      "2023-06-29": 203
+      "2023-06-30": 590
     }
   },
   {
@@ -704,10 +701,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 245,
-    "timeDay": 176,
+    "time": 244,
+    "timeDay": 147,
     "timeWeek": 157,
-    "timeMonth": 160,
+    "timeMonth": 159,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2024-04-18": 252,
@@ -716,8 +713,7 @@
       "2023-10-20": 89,
       "2023-09-15": 85,
       "2023-07-07": 38,
-      "2023-06-30": 590,
-      "2023-06-29": 203
+      "2023-06-30": 590
     }
   },
   {
@@ -732,17 +728,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 224,
-    "timeDay": 176,
+    "timeDay": 147,
     "timeWeek": 157,
-    "timeMonth": 160,
+    "timeMonth": 159,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2024-04-18": 252,
       "2023-11-14": 16,
       "2023-10-20": 85,
       "2023-09-15": 81,
-      "2023-06-30": 590,
-      "2023-06-29": 202
+      "2023-06-30": 590
     }
   }
 ]
