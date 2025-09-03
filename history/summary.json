@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "meyer-lab-web",
     "status": "up",
-    "uptime": "94.49%",
+    "uptime": "94.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 833,
-    "timeDay": 683,
-    "timeWeek": 1167,
-    "timeMonth": 1004,
-    "timeYear": 860,
+    "timeDay": 749,
+    "timeWeek": 1184,
+    "timeMonth": 1007,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2025-02-21": 21
     }
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/8081.ico",
     "slug": "next-lab-web",
     "status": "down",
-    "uptime": "16.18%",
+    "uptime": "16.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-02": 38,
+      "2025-09-03": 36,
+      "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -399,8 +400,7 @@
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
-      "2024-09-04": 1440,
-      "2024-09-03": 1440
+      "2024-09-04": 1440
     }
   },
   {
@@ -409,7 +409,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hey-now",
     "status": "down",
-    "uptime": "47.47%",
+    "uptime": "47.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -420,7 +420,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-02": 38,
+      "2025-09-03": 36,
+      "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -783,8 +784,7 @@
       "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
-      "2024-09-04": 1440,
-      "2024-09-03": 1440
+      "2024-09-04": 1440
     }
   },
   {
@@ -793,18 +793,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "meyer-lab-mail-server",
     "status": "down",
-    "uptime": "71.12%",
+    "uptime": "71.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.66%",
-    "time": 593,
+    "uptimeYear": "3.39%",
+    "time": 592,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 556,
+    "timeYear": 558,
     "dailyMinutesDown": {
-      "2025-09-02": 38,
+      "2025-09-03": 36,
+      "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -1157,8 +1158,7 @@
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 789,
-      "2024-09-04": 58,
-      "2024-09-03": 17
+      "2024-09-04": 58
     }
   },
   {
@@ -1167,18 +1167,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "meyer-lab-mail-smtp",
     "status": "down",
-    "uptime": "71.13%",
+    "uptime": "71.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.64%",
-    "time": 159,
+    "uptimeYear": "3.37%",
+    "time": 158,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2025-09-02": 38,
+      "2025-09-03": 36,
+      "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -1532,8 +1533,7 @@
       "2024-09-16": 1440,
       "2024-09-15": 786,
       "2024-09-12": 125,
-      "2024-09-04": 58,
-      "2024-09-03": 14
+      "2024-09-04": 58
     }
   },
   {
@@ -1542,18 +1542,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "meyer-lab-mail-imap",
     "status": "down",
-    "uptime": "71.16%",
+    "uptime": "71.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.67%",
+    "uptimeYear": "3.39%",
     "time": 159,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-09-02": 39,
+      "2025-09-03": 36,
+      "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -1906,8 +1907,7 @@
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 783,
-      "2024-09-04": 58,
-      "2024-09-03": 10
+      "2024-09-04": 58
     }
   },
   {
@@ -1916,18 +1916,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "meyer-lab-mail-pop",
     "status": "down",
-    "uptime": "71.17%",
+    "uptime": "71.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.67%",
+    "uptimeYear": "3.39%",
     "time": 159,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-09-02": 39,
+      "2025-09-03": 36,
+      "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -2280,8 +2281,7 @@
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 780,
-      "2024-09-04": 58,
-      "2024-09-03": 7
+      "2024-09-04": 58
     }
   }
 ]
